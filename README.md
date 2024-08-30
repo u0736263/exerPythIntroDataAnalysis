@@ -1,5 +1,7 @@
 # First Jupyter Notebook - Introduction to Data Analysis
 
+(2024 Update) You should be able to complete this tutorial directly in Google Colab. Give it a try. The speaker provides a link where to download the data files. You can skip the Anaconda installation instructions from time index 2:10 to time index 3:10. (Anaconda is a scientific version of Python you can install on your own computer. It's not necessary to do that because Google Colab has everything you need.) After completing the tutorial, export your completed notebook from Google Colab and upload it here to your assignment repository.
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
